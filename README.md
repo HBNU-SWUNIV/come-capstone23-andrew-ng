@@ -52,5 +52,23 @@
   
   
 ## Results
-  - ### OOO
-  - ### OOO
+  - 접속화면_PC
+
+<img width="1429" alt="1" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/5cc9dd85-e446-428b-adda-6f371119faf4">
+<img width="1429" alt="2" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/98d69ddc-db24-49cc-800b-23e0ebb80f76">
+<img width="1429" alt="3" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/24d11921-fe15-4531-b817-ac0895cf6489">
+<img width="1429" alt="스크린샷 2023-11-29 오후 11 34 56" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/6dc36aab-663d-40e6-9be9-6d296691e7d4">
+
+
+
+
+  - 접속화면_모바일
+
+
+<img width="360" height="550" alt="5" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/503c4dc9-4cfe-479a-8431-5f8338bec6ae">
+<img width="360" height="550" alt="6" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/0de03b4e-9e06-436e-94e0-9020ecbd9309">
+<img width="360" height="550" alt="7" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/c7e422cd-ff61-4b5f-a19d-789dde1ca646">
+<img width="360" height="550" alt="8" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/cae4cd9e-c34a-4217-a549-c85fb4d9acc0">
+
+
+
